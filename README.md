@@ -558,9 +558,4 @@ If you just want to make sure that your code passes all the necessary checks to 
 poe precommit
 ```
 
-## Donations
 
-If this project makes you happy by reducing your development time, you can make me happy by treating me to a cup of 
-coffee, or become a [Sponsor of this project](https://github.com/sponsors/jdepoix) :)  
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BAENLEW8VUJ6G&source=url)
